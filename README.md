@@ -55,7 +55,3 @@ function basicWindowExample() {
 ## 📝 TODO
 
 - Add cross-platform executable files for **macOS** and **Linux** in the `./lib` folder.
-
----
-
-This version includes emojis for a more visually engaging experience!
