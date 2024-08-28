@@ -1,10 +1,15 @@
 # Bun-Tkinter
 
-![Bun-Tkinter](./assets/for_loyal_member.png)
+<div style="text-align: center;">
+    <img src="./assets/for_loyal_member.png" alt="Bun-Tkinter" width="490" height="210">
+</div>
+
 
 **Bun-Tkinter** is a TypeScript wrapper for Tcl/Tk, offering a modern, object-oriented interface for developing GUI applications with Bun. Since this Library uses Bun:ffi, There's Zero external dependencies, except for Tcl itself.
 
-![A basic Window](./assets/image.png)
+<div style="text-align: center;">
+    <img src="./assets/image.png" alt="A basic Window">
+</div>
 
 ## 🚀 Installation
 
